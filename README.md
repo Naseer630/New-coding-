@@ -1,2 +1,1 @@
-# New-coding-
-New record
+print (hi week 0)
